@@ -401,4 +401,4 @@ FodyWeavers.xsd
 .idea/
 
 # Other git repositories
-Github/
+Github/*
