@@ -1,0 +1,81 @@
+[submodule "AutoMapper"]
+	path = AutoMapper
+	url = https://github.com/AutoMapper/AutoMapper.git
+[submodule "efcore"]
+	path = efcore
+	url = https://github.com/dotnet/efcore.git
+[submodule "EntityFramework.Docs"]
+	path = EntityFramework.Docs
+	url = https://github.com/dotnet/EntityFramework.Docs.git
+[submodule "Newtonsoft.Json"]
+	path = Newtonsoft.Json
+	url = https://github.com/JamesNK/Newtonsoft.Json.git
+[submodule "BenchmarkDotNet"]
+	path = BenchmarkDotNet
+	url = https://github.com/dotnet/BenchmarkDotNet.git
+[submodule "prometheus-net"]
+	path = prometheus-net
+	url = https://github.com/prometheus-net/prometheus-net.git
+[submodule "AspNetCore.Docs"]
+	path = AspNetCore.Docs
+	url = https://github.com/dotnet/AspNetCore.Docs.git
+[submodule "aspnetcore"]
+	path = aspnetcore
+	url = https://github.com/dotnet/aspnetcore.git
+[submodule "csharplang"]
+	path = csharplang
+	url = https://github.com/dotnet/csharplang.git
+[submodule "dotnet"]
+	path = dotnet
+	url = https://github.com/microsoft/dotnet.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/dotnet/docs.git
+[submodule "samples"]
+	path = samples
+	url = https://github.com/dotnet/samples.git
+[submodule "try-samples"]
+	path = try-samples
+	url = https://github.com/dotnet/try-samples.git
+[submodule "serilog"]
+	path = serilog
+	url = https://github.com/serilog/serilog.git
+[submodule "runtime"]
+	path = runtime
+	url = https://github.com/dotnet/runtime.git
+[submodule "serilog-aspnetcore"]
+	path = serilog-aspnetcore
+	url = https://github.com/serilog/serilog-aspnetcore.git
+[submodule "serilog-extensions-logging"]
+	path = serilog-extensions-logging
+	url = https://github.com/serilog/serilog-extensions-logging.git
+[submodule "serilog-settings-configuration"]
+	path = serilog-settings-configuration
+	url = https://github.com/serilog/serilog-settings-configuration.git
+[submodule "fluentassertions"]
+	path = fluentassertions
+	url = https://github.com/fluentassertions/fluentassertions.git
+[submodule "moq"]
+	path = moq
+	url = https://github.com/devlooped/moq.git
+[submodule "samples.xunit"]
+	path = samples.xunit
+	url = https://github.com/xunit/samples.xunit.git
+[submodule "xunit"]
+	path = xunit
+	url = https://github.com/xunit/xunit.git
+[submodule "commandline"]
+	path = commandline
+	url = https://github.com/commandlineparser/commandline.git
+[submodule "nopCommerce"]
+	path = nopCommerce
+	url = https://github.com/nopSolutions/nopCommerce.git
+[submodule "Orchard"]
+	path = Orchard
+	url = https://github.com/OrchardCMS/OrchardCore.git
+[submodule "core"]
+	path = core
+	url = https://github.com/dotnet/core.git
+[submodule "OrchardCore"]
+	path = OrchardCore
+	url = https://github.com/OrchardCMS/OrchardCore.git
